@@ -4,7 +4,7 @@ body{
   color: white;
 
 }
-.Discover h1{
+h1{
   font-size: 50px;
   font-family:verdana;
   font-weight: normal;
@@ -25,5 +25,14 @@ body{
 }
 .Personal p {
   color: gray;
-  font-size: 21px
+  font-size: 21px;
+  text-align: center;
+}
+
+p{
+  text-align: right;
+}
+.Icon a{
+  color: aquamarine;
+  font-size: 16px
 }
